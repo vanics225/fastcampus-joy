@@ -175,7 +175,8 @@ Programming Language(이하 PL)이란, 컴퓨터 프로그램을 작성하기 �
 
 4) 컴퓨터가 이해하기 좋은 ***Low-level 언어(e.g. Assembly, C)***와 사람이 이해하기 편한 ***High-level 언어(e.g. Python, JAVA, JavaScript, Go, Swift 등)***로 크게 구분된다.
 
-![C언어로 만들어진 “Hello World” 출력 예시 코드.](%5BFull%20Ver%5D%20Chapter%201%20Introduction%20to%20Computer%20Scie%208e4acf5ef7884827a4c85ae229c5cd48/C_Hello_World_Program.png)
+<!-- ![C언어로 만들어진 “Hello World” 출력 예시 코드.](%5BFull%20Ver%5D%20Chapter%201%20Introduction%20to%20Computer%20Scie%208e4acf5ef7884827a4c85ae229c5cd48/C_Hello_World_Program.png) -->
+![C_Hello_World_Program](https://github.com/vanics225/fastcampus-joy/assets/174995648/eba4a354-ba5d-4ba6-b522-c92ce6023ed1)
 
 C언어로 만들어진 “Hello World” 출력 예시 코드.
 
