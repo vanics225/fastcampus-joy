@@ -9,7 +9,7 @@
 ---
 
 <!-- ![Untitled](5%201%20-%20git%20-%201%20a8323bd3ec4f4378a5cd98cb9dd1e214/Untitled%202.png) -->
-<img width="700" height="300" alt="Untitled 2" src="https://github.com/vanics225/fastcampus-joy/blob/main/img/Untitled%203.png?raw=true">
+![untitled3]<img width="700" height="300" alt="Untitled 2" src="https://github.com/vanics225/fastcampus-joy/blob/main/img/Untitled%203.png?raw=true">
 
 <!-- ![Untitled](5%201%20-%20git%20-%201%20a8323bd3ec4f4378a5cd98cb9dd1e214/Untitled%203.png) -->
 https://github.com/vanics225/fastcampus-joy/blob/main/img/Untitled%204.png?raw=true
@@ -18,7 +18,7 @@ https://github.com/vanics225/fastcampus-joy/blob/main/img/Untitled%204.png?raw=t
 
 ![img4](https://github.com/vanics225/fastcampus-joy/blob/main/img/Untitled%204.png?raw=true)
 
-![Untitled](.\img\Untitled.png)
+![Untitled](".\img\Untitled.png")
 
 commit 을 자주 하는게 좋다. 중간중간 저장하는 느낌.
 
